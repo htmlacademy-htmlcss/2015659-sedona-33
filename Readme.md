@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Андрей  Захаров](https://up.htmlacademy.ru/htmlcss/33/user/2015659).
-* Наставник: [Анастасия Красавина](https://htmlacademy.ru/profile/id186775).
+* Наставник: [Анастасия Красавина](https://htmlacademy.ru/profile/id186775). 
 
 ---
 
